@@ -1,3 +1,5 @@
+# this is th spark Wordcount program In Pyspark GUI
+
 from pyspark import SparkContext
 def main():
 	sc = SparkContext(appName = 'ABC')
